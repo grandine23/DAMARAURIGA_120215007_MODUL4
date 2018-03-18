@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.androidhehe.riga.damarauriga_1202150007_modul4.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="30dp"
+        android:text="@string/menu_utama"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btn_list_mahasiswa"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/list_mahasiswa"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="136dp" />
+
+    <Button
+        android:id="@+id/btn_cari_gambar"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/cari_gambar"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="69dp" />
+
+</LinearLayout>

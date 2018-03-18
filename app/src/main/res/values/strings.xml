@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAMARAURIGA_1202150007_MODUL4</string>
+    <string name="menu_utama">Menu</string>
+    <string name="list_mahasiswa">List Mahasiswa</string>
+    <string name="cari_gambar">Cari Gambar</string>
+    <string name="masukkan_url_gambar">Masukkan URL gambar</string>
+    <string name="klik_untuk_mencari_gambar">Klik untuk mencari gambar</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+</resources>
